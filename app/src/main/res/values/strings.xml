@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rostislav Gordienya Logic Game</string>
+    <string name="information">How long it\'ll took to you?</string>
+    <string name="button_one">Click!</string>
+    <string name="base_hint">Tap!</string>
+    <string name="guess_word_base">Guess the word!</string>
+    <string name="close">Close</string>
+</resources>

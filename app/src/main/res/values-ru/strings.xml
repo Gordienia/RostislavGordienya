@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ростислав Гордиеня - логическая игра!</string>
+    <string name="information">А за сколько сможешь пройти ты?</string>
+    <string name="button_one">Кликай!</string>
+    <string name="base_hint">Тыкай!</string>
+    <string name="guess_word_base">Угадай слово!</string>
+    <string name="close">Закрыть</string>
+</resources>
